@@ -19,7 +19,7 @@ Um projeto simples, sem muitos aprendizados no HTML, CSS e JS
 
 ## Demonstração
 
-
+<img src="src/images/weather.gif">
 
 
 ## Melhorias
